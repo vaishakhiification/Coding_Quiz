@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Coding Quiz</string>
+    <string name="chooser">Send message via...</string>
+    <string name="coding_quiz">Coding Quiz</string>
+    <string name="please_enter_your_answer">Please enter your answer:</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="q1">The wrapping up of data and functions into a single unit is called</string>
+    <string name="q2">_________ means that two or more methods can have different names in the same way that an English word can have two or more meanings.</string>
+    <string name="q3">Which of the following is an abstract data type?</string>
+    <string name="question">Question %d</string>
+    <string name="select_your_answer">Select your answer</string>
+    <string name="share_results">Share Results</string>
+    <string name="solution1">Encapsulation</string>
+    <string name="solution2">Polymorphism</string>
+    <string name="solution3">Class</string>
+    <string name="retry">Retry</string>
+    <string name="shareMsg">"Hello \nI just took the coding quiz and my results were: %d/%d"</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="page_timer">Page Timer: </string>
+    <string name="resultLabel">Your score is: %d/%d</string>
+    <string name="page_time_limit">Page Timer Limit (in Milliseconds): </string>
+    <string name="time_elapsed">Time elapsed:</string>
+    <string name="title_message">Test your coding knowledge with a simple quiz here!</string>
+    <string name="total_time_elapsed">Total time elapsed: </string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="config_settings">Config Settings</string>
+    <string name="image_button">Image Button</string>
+    <string name="button_type">Button Type</string>
+    <string name="pass">Pass</string>
+    <string name="fail">Fail</string>
+    <string name="time_up">Time Up!</string>
+    <string name="tap_here">Tap Here..</string>
+    <string name="default_button">Default Button</string>
+    <string-array name="s1_answers">
+        <item>Abstraction</item>
+        <item>Data Hiding</item>
+        <item>Encapsulation</item>
+        <item>Polymorphism</item>
+        <item>Message passing</item>
+    </string-array>
+    <string-array name="s2_answers">
+        <item>int</item>
+        <item>double</item>
+        <item>string</item>
+        <item>Class</item>
+    </string-array>
+
+</resources>
